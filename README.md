@@ -1,6 +1,6 @@
 # Telecom-Churn-Case-Study-Kaggle-
 
-![image](https://github.com/user-attachments/assets/31cb4fd9-bd1c-418e-b180-5228bc5003dd)
+![image](https://github.com/user-attachments/assets/5db86b38-5d77-407b-aa79-b05ed2406d71)
 
 
 Problem Statement
